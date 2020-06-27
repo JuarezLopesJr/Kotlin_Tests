@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AirportStatusTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-27T18:50:58" hostname="debian" time="0.648">
+  <properties/>
+  <testcase name="getAirportStatus runs in the Dispatcher.IO context" classname="AirportStatusTest" time="0.645"/>
+  <testcase name="getAirportStatus returns status for airports in sorted order" classname="AirportStatusTest" time="0.756"/>
+  <testcase name="getAirportStatus calls getAirportData asynchronously" classname="AirportStatusTest" time="0.309"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
